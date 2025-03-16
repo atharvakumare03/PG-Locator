@@ -1,3 +1,3 @@
-Project Name - PG Location
+Project Name - PG Locator
 
 About Project -
